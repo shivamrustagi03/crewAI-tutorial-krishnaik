@@ -1,0 +1,7 @@
+So here 
+
+All the agents have been connected .
+Now we need 'llm' to read the data then summarize the data and actually write the blog post . 
+My Api Key is not working. 
+
+But if you have API KEY . Import it like we do in any other model. In crew.py
